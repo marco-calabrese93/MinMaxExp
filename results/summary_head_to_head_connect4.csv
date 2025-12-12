@@ -1,0 +1,4 @@
+new,old,wins_new,draws,losses_new,winrate_new
+D,A,25,0,25,0.5
+E,A,0,50,0,0.0
+E,D,50,0,0,1.0

@@ -1,0 +1,2 @@
+mse_train,mse_test,acc_train,acc_test,num_examples,hidden_dim,lr,epochs,seed
+0.3810757100582123,0.4107137620449066,0.637701804368471,0.5939278937381404,2633,64,0.001,50,0

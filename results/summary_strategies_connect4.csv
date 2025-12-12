@@ -1,0 +1,4 @@
+strategy,name,mse_offline,corr_offline,wins,draws,losses,winrate
+A,"Baseline (L,K costanti)",0.2739991988939692,0.09921616170744485,92,0,8,0.92
+D,Curriculum aggressivo (Strategy D),0.17426148589396348,0.17492339502478416,98,0,2,0.98
+E,Curriculum teorico K=2L+1 (Strategy E),0.1817152180642308,0.1382025815899038,98,1,1,0.98
